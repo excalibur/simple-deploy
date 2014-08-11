@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Author : faith
 # 设置部署环境
 select env in "prod" "dev"
 do
